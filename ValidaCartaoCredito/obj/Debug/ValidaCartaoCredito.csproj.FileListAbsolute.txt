@@ -1,0 +1,78 @@
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\ValidaCartaoCredito.dll.config
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\ValidaCartaoCredito.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\ValidaCartaoCredito.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\Antlr3.Runtime.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\EntityFramework.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\Newtonsoft.Json.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Mvc.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Optimization.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Providers.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Razor.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.Razor.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\WebGrease.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\EntityFramework.xml
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\Newtonsoft.Json.xml
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Mvc.xml
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Razor.xml
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.xml
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.Razor.xml
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.dll
+c:\users\administrador\documents\visual studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\ValidaCartaoCredito\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.csprojResolveAssemblyReference.cache
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\ValidaCartaoCredito.dll.config
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\ValidaCartaoCredito.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\ValidaCartaoCredito.pdb
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\Antlr3.Runtime.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\EntityFramework.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\Microsoft.Web.Infrastructure.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\Newtonsoft.Json.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Mvc.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Optimization.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Providers.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Razor.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.Deployment.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.Razor.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\WebGrease.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\EntityFramework.xml
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\Newtonsoft.Json.xml
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Mvc.xml
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.Razor.xml
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.xml
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.Deployment.xml
+D:\ValidaCartaoCredito\ValidaCartaoCredito\bin\System.Web.WebPages.Razor.xml
+D:\ValidaCartaoCredito\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.dll
+D:\ValidaCartaoCredito\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.pdb
+D:\ValidaCartaoCredito\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.csprojResolveAssemblyReference.cache
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\ValidaCartaoCredito.dll.config
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\ValidaCartaoCredito.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\ValidaCartaoCredito.pdb
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\Antlr3.Runtime.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\EntityFramework.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\Microsoft.Web.Infrastructure.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\Newtonsoft.Json.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.Mvc.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.Optimization.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.Providers.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.Razor.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.WebPages.Deployment.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.WebPages.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.WebPages.Razor.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\WebGrease.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\EntityFramework.xml
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\Newtonsoft.Json.xml
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.Mvc.xml
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.Razor.xml
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.WebPages.xml
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.WebPages.Deployment.xml
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\bin\System.Web.WebPages.Razor.xml
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.dll
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.pdb
+F:\ValidaCartaoCredito2\ValidaCartaoCredito\obj\Debug\ValidaCartaoCredito.csprojResolveAssemblyReference.cache

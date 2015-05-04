@@ -1,0 +1,17 @@
+﻿@model ValidaCartaoCredito.Models.IndexModel
+@{
+    ViewBag.Title = "Validador do cartão de credito";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="Scripts/mascara.js" type=text/javascript></script>
+<h2>Verificar se cartão de crédito é válido</h2>
+
+<form action="/Index/Index" method="post">
+
+    <input type="text" onkeyup="formataInteiro(this, event);" name="Numero" value="@Model.Numero" required />
+
+    <button type="submit" name="Submit">Validar</button>
+
+</form>
+
+@Html.Label(@Model.Resultado)
